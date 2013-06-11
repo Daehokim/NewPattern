@@ -14,6 +14,7 @@ public class test {
 		shelf.addBook(new Book("Test:2"));
 		shelf.addBook(new Book("Test:3"));
 		shelf.addBook(new Book("Test:4"));
+		shelf.addBook(new Book("Test:5"));
 		
 		Iterator iter = shelf.getIterator();
 		
